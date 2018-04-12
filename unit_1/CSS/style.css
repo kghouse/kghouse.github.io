@@ -4,6 +4,10 @@ body {
 	font-family: Arial, sans-serif;
 }
 
+h3{
+	color: indigo;
+}
+
 h1, p{
 	color: purple;
 }

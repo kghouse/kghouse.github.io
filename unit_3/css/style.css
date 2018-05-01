@@ -7,16 +7,22 @@ body {
 	background-repeat: no-repeat;
 }
 
-h3{
-	color: indigo;
+
+hr{
+	width: 200px;
 }
+
 
 h1{
 	color: #A9AF99;
 }
 
+h3{
+	color: indigo;
+}
+
 #slogan {
-	color: black;
+	color: white;
 	font-style: italic;
 	font-weight: bold;
 }

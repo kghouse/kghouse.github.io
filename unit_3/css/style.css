@@ -28,7 +28,15 @@ h3{
 	font-weight: bold;
 }
 
+#contact {
+	color: black;
+}
+
 p{
 	color: white;
 }
 
+a{
+	text-decoration: none;
+	color: white;
+}

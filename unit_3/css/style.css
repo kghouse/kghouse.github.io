@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Lora:700');
+
 body {
 	color: white;
 	background-color: whitesmoke;
@@ -14,6 +16,7 @@ body {
 
 hr{
 	width: 200px;
+	font-family: 'Lora', serif;
 }
 
 

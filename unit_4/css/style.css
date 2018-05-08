@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Lora:700');
+@import url('https://fonts.googleapis.com/css?family=Lora:700|Oswald');
 
 body {
 	color: white;
@@ -32,17 +32,21 @@ h3{
 	color: white;
 	font-style: italic;
 	font-weight: bold;
+	font-family: 'Oswald', sans-serif;
 }
 
 #contact {
 	color: black;
+	font-family: 'Oswald', sans-serif;
 }
 
 p{
 	color: white;
+	font-family: 'Oswald', sans-serif;
 }
 
 a{
 	text-decoration: none;
 	color: white;
+	font-family: 'Oswald', sans-serif;
 }

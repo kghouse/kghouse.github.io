@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Lora:700|Oswald');
+
+body {
+	background-color: yellow;
+	font-family: Helvetica, sans-serif;
+	background: url("https://i.ytimg.com/vi/8JJYBHgtlgc/maxresdefault.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	text-align: center;
+	margin-right: 300px;
+	margin-left: 300px;
+	margin-top: 220px;
+}
+
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+div {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+
+hr{
+	width: 200px;
+}
+
+
+h1{
+	color: #986e8d;
+	font-family: 'Lora', serif;
+	font-size: 40px;
+}
+
+h3{
+	color: indigo;
+}
+
+#slogan {
+	color: black;
+	font-style: italic;
+	font-weight: bold;
+	font-family: 'Oswald', sans-serif;
+}
+
+#contact {
+	color: black;
+	font-family: 'Oswald', sans-serif;
+}
+
+p{
+	color: black;
+	font-family: 'Oswald', sans-serif;
+	line-height: 1.5em;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+	font-family: 'Oswald', sans-serif;
+}

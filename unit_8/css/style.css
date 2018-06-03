@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css?family=Lora:700|Oswald');
+
+body {
+	font-family: Helvetica, sans-serif;
+	font-size: 50px;
+	background: url("https://i.ytimg.com/vi/8JJYBHgtlgc/maxresdefault.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	text-align: center;
+	margin-left: 1.5em;
+	margin-right: 1.5em;
+}
+
+header {
+	margin: none;
+}
+
+h1{
+	color: #986e8d;
+	font-family: 'Lora', serif;
+	font-size: 1.1em;
+}
+
+#companyname {
+	text-align: left;
+}
+
+
+nav {
+	font-size: 1.1em;
+}
+
+nav a {
+	text-decoration: none;
+	color: #000000;
+	margin: 1.8em;
+	display: inline-block;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+#two_column {
+	padding: .3em;
+}
+
+#left {
+	background-color: rgba(255,255,255,.5);
+	padding: .5em;
+	float: left;
+	width: 31%;
+}
+
+#right { 
+	background-color: rgba(255,255,255,.5);
+	text-align: middle;
+	padding: .2em;
+	float: right;
+	width: 60%;
+	text-align: left;
+}
+
+
+hr{
+	width: 200px;
+}
+
+
+h2 {
+	font-family: 'Oswald', sans-serif;
+}
+
+#contact {
+	color: black;
+	font-size: .5em;
+	line-height: 1.1em;
+}
+
+h3{
+	color: indigo;
+}
+
+p{
+	color: black;
+	font-size: .3em;
+	font-family: 'Oswald', sans-serif;
+	line-height: 1.5em;
+}
+
+#slogan {
+	color: black;
+	font-style: italic;
+	font-weight: bold;
+	font-family: 'Oswald', sans-serif;
+}
+
+footer {
+	background-color: #986e8d;
+	width: 100%;
+}
+
+
+a{
+	text-decoration: none;
+	color: white;
+	font-family: 'Oswald', sans-serif;
+	font-size: .4em;
+	line-height: 1.1em;
+	vertical-align: text-top;
+}
